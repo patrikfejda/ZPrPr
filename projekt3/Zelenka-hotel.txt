@@ -1,0 +1,98 @@
+---
+203
+1
+103.52
+#
+Michal Novak 
+Malinova 97/203, Bratislava
+20210214
+20210219
+---
+303
+1
+175.52
+#
+Michal Novak303
+Malinova 97/303, Bratislava
+20210314
+20210319
+---
+105
+2
+323
+#
+Tomas Kovac
+Jahodova 3, Bratislava
+20210204
+20210302
+#
+Lucia Kovacova
+Jahodova 3, Bratislava
+20210204
+20210302
+---
+205
+2
+323
+#
+Tomas Krokavec
+Jahodova 3, Bratislava
+20210204
+20210302
+#
+Lucia Krokavcova
+Jahodova 3, Bratislava
+20210204
+20210302
+---
+305
+5
+523
+#
+Tomas Kovac
+Jahodova 3, Bratislava
+20210204
+20210302
+#
+Lucia Kovacova
+Jahodova 3, Bratislava
+20210204
+20210302
+#
+Lucia ml. Kovacova
+Jahodova 3, Bratislava
+20210204
+20210302
+#
+Maria Kovacova
+Jahodova 3, Bratislava
+20210204
+20210302
+#
+Tomas ml. Kovac
+Jahodova 3, Bratislava
+20210204
+20210302
+---
+118
+5
+533
+#
+Lukas Kovac
+Jahodova 3, Bratislava
+20210404
+20210502
+#
+Lukas ml. Kovac
+Jahodova 3, Bratislava
+20210404
+20210502
+---
+103
+1
+103.52
+#
+Michal Novak
+Malinova 97/103, Bratislava
+20210314
+20210319
